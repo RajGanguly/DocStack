@@ -3,22 +3,9 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+Docstack
 
-* Ruby version
+A basic rails app which demonstrates creation, updation and deletion of various entries.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can checkout the app running here:
+https://docstack.herokuapp.com
